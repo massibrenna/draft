@@ -1,0 +1,21 @@
+body {
+    background-image: url(atharv.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    background: linear-gradient(to right, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #FFFFFF;
+    font-family: "press Start 2P","consolas",sans-serif;
+}
+
+p {
+   
+    color: #00FF73;
+    font-family: "consolas",sans-serif;
+}
